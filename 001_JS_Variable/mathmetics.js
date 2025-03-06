@@ -32,3 +32,23 @@ const totalExpend = eachExpend * totalTurn;
 const restMoney3 = money2 - totalExpend;
 console.log(totalTurn, restMoney3);
 
+const firstNum = 8;
+const secondNum = 3;
+const dividedNum = parseInt(firstNum / secondNum);
+const remainder = firstNum % secondNum;
+console.log(dividedNum, remainder);
+
+const firstNumber = 50;
+const secondNumber = 9;
+const remainderNum = 50 % 9;
+console.log(remainderNum);
+
+const firstWord1 = 'Bangla';
+const secondWord1 = 'desh';
+console.log(firstWord1 + secondWord1);
+
+const rice2 = 480;
+const perDayEating = 4;
+const totalDays = rice2 / perDayEating;
+
+console.log(totalDays);
