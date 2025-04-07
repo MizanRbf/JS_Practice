@@ -21,3 +21,8 @@ const oddNum = [11, 13, 15, 17, 19, 21, 23, 25];
 
 const color = ["blue", "green", "red", "orange"];
 console.log(color.length);
+
+// *********************************
+
+const capital = ["Dhaka", "Riyad", "Kathmundu"];
+console.log(capital.length);
